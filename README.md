@@ -1,4 +1,17 @@
 # Getting Started with Create Vite + React App
+### Step1 :- install node js with npm files
+step2 :- Run command on terminal  :- npm create vite@latest
+step3 :- ✔ Project name: write project name like 01_vitereact
+         ✔ Select a framework: » React
+         ✔ Select a variant: » JavaScript
+
+step4:- ✔after that all files are installed expect node module choose the file 
+	by using ///  cd nameofproject
+
+step5:- to install node module type npm install
+
+step6:- to run the module first select the folder by using cd name of folder 
+step7:- type npm run dev
 
 
 
