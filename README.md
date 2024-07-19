@@ -12,10 +12,12 @@
 ### Step4:- ✔After that all files are installed expect node module choose the file by using 
 	  cd nameofproject
 
-step5:- to install node module type npm install
+### Step5:- To install node module type 
+	npm install
 
-step6:- to run the module first select the folder by using cd name of folder 
-step7:- type npm run dev
+## Step6:- to run the module first select the folder by using cd name of folder 
+## Step7:- Type 
+	npm run dev
 
 
 
