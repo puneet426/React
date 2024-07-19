@@ -9,8 +9,8 @@
 ### `✔ Select a variant:`
 	» JavaScript
 
-#### Step4:- ✔After that all files are installed expect node module choose the file 
-	by using ///  cd nameofproject
+### Step4:- ✔After that all files are installed expect node module choose the file by using 
+	  cd nameofproject
 
 step5:- to install node module type npm install
 
