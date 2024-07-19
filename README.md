@@ -15,8 +15,7 @@
 ### Step5:- To install node module type 
 	npm install
 
-### Step6:- To run the module first select the folder by using cd name of folder 
-### Step7:- Type 
+### Step6:- To run the module first select the folder by using cd nameOfFolder then run command
 	npm run dev
 
 
